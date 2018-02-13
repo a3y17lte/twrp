@@ -32,7 +32,6 @@
 #include <string.h>
 
 #include "property_service.h"
-#include "vendor_init.h"
 #include "log.h"
 #include "util.h"
 
