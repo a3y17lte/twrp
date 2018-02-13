@@ -1,0 +1,8 @@
+[
+	{
+		"remote":"github",
+		"repository":"a3y17lte/kernel",
+		"target_path":"kernel/samsung/exynos7870",
+		"revision":"lineage-15.1"
+	}
+]
