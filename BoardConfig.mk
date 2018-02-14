@@ -21,9 +21,6 @@ TARGET_2ND_CPU_ABI := armeabi-v7a
 TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := generic
 
-TARGET_INIT_VENDOR_LIB := libinit_a3y17lte
-
-
 # Kernel
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_CONFIG := lineage-a3y17lte_defconfig
